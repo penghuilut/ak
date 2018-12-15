@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_search",
+    "children" : [ {
+      "name" : "TestSearch.test_search[13526548754-123456]",
+      "uid" : "fa1780fc3d4a7e18",
+      "parentUid" : "9e36ec72b75c2bab0b17384fb3f91d2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544692591441,
+        "stop" : 1544692621819,
+        "duration" : 30378
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e36ec72b75c2bab0b17384fb3f91d2b"
+  } ]
+}

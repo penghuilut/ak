@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-Q0THO8P",
+    "children" : [ {
+      "name" : "18968-MainThread",
+      "children" : [ {
+        "name" : "TestSearch.test_search[13526548754-123456]",
+        "uid" : "fa1780fc3d4a7e18",
+        "parentUid" : "bb81f61158932bfc4823ae830f803f09",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544692591441,
+          "stop" : 1544692621819,
+          "duration" : 30378
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb81f61158932bfc4823ae830f803f09"
+    } ],
+    "uid" : "68a2e7827880f3ede45cf3d02cf4a552"
+  } ]
+}
