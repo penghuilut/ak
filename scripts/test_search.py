@@ -31,6 +31,8 @@ class TestSearch():
             print("正在登陆的密码:", password)
         def test_int(self):
             print("执行完毕")
+        def test_int(self):
+            print("test执行完毕")
 
     # def setup_class(self):
     #     self.login = PageSearch(get_driver())
